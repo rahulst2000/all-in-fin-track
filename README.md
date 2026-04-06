@@ -80,7 +80,6 @@ all-in-fin-track/
 |-- package-lock.json
 |-- tsconfig.json
 |-- README.md
-|-- PROJECT_DPR.md
 |-- public/
 |   |-- favicon.svg
 |   |-- icons.svg
@@ -126,9 +125,6 @@ npm run build
 
 - [src/style.css](C:\Users\Rahul\OneDrive\Desktop\Projects\fintech -dasboard-rontend-project\src\style.css)
   Full UI design, layout, popup styling, responsiveness, and visual theme.
-
-- [PROJECT_DPR.md](C:\Users\Rahul\OneDrive\Desktop\Projects\fintech -dasboard-rontend-project\PROJECT_DPR.md)
-  Interview-ready DPR to explain the project clearly.
 
 ## Why This Project Is Good For Interview
 
